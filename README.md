@@ -1,1 +1,1 @@
-# Quasar-AI
+# Lucere AI
